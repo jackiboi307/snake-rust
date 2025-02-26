@@ -2,7 +2,7 @@
 
 My first project in Rust, using SDL2. The code is not beautiful, but might be useful if you're looking for an example on how to use Rust, SDL2 and Serde (for loading JSON).
 
-Note: the doctor\_worm.mp3 music file (which is a song by They Might Be Giants) and crunch.mp3 are probably copyrighted or something. You can disable them in the config, but I think the files will still be loaded
+Note: the doctor\_worm.mp3 music file (which is a song by They Might Be Giants) and crunch.mp3 are probably copyrighted or something. You can disable them in the config, but I think the files will still be loaded.
 
 ## Features
 
