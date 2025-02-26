@@ -1,5 +1,5 @@
 {
     "music": false,
     "audio": true,
-    "walls_kill": false
+    "walls_kill": true
 }
