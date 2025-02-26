@@ -14,4 +14,4 @@ Note: the doctor\_worm.mp3 music file (which is a song by They Might Be Giants) 
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/jackiboi307/snake_rust/refs/heads/master/screenshot.png">
+<img src="https://raw.githubusercontent.com/jackiboi307/snake-rust/refs/heads/master/screenshot.png">
