@@ -10,7 +10,7 @@ Note: the doctor\_worm.mp3 music file (which is a song by They Might Be Giants) 
 - Music and sound effects
 - Configuration file with options for disabling audio and allowing looping around the walls
 - The Swedish language
-- Beautiful graphics - the snake has eyes and the apples have green things on them
+- Beautiful graphics: the snake has eyes and the apples have green things on them
 
 ## Screenshot
 
